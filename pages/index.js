@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={ utilStyle.headingMd }>
-        <p>プロフィールテキストエリアです</p>
+        <p>devブランチで開発した内容をマージします。</p>
       </section>
 
       <section>
